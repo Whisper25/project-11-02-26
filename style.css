@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+}
+main{
+    background-color: gray;
+    background-image: url('./assets/images/planet_1280.jpg');
+    color: white;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+}
+.movie{
+    width: 80%;
+    margin: auto;
+    padding-top: 30px;
+}
+.center{
+    text-align: center;
+}
+.poster{
+    width: 400px;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+}
+a{
+    color:gold;
+    text-decoration: none;
+}
+.table{
+    border:1px solid white;
+    border-collapse: collapse;
+    width: 100%;
+}
+.table td{
+    border:1px solid white;
+    padding: 10px;
+}
